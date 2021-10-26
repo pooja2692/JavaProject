@@ -3,7 +3,7 @@ public class JavaPractice {
 
 	public static void main(String[] args) {
 		
-	System.out.println("Hi Poo");
+	System.out.println("Hi mona");
 
 	}
 
